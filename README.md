@@ -2,6 +2,8 @@
 
 ## 01-ts-basic
 
+1. [hello.ts](https://github.com/sunyangcheng/learn-typescript/tree/master/01-ts-basic/src/hello.ts)
+
 ## 02-everyday-types  
 
 1. [01-the-primitives.ts（基元类型）](https://github.com/sunyangcheng/learn-typescript/tree/master/02-everyday-types/src/01-the-primitives.ts)

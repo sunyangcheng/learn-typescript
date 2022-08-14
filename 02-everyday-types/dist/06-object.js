@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function printCoord(pt) {
     console.log(`x: ${pt.x}, y: ${pt.y}`);
 }
@@ -18,12 +19,3 @@ printName({
     firstName: "John",
     lastName: "Doe"
 });
-// printName({
-//   firstName: "John",
-//   lastName: 100 // error
-// });
-// printName({
-//   firstName: "John",
-//   lastName: "Doe",
-//   age: 30 // error
-// })

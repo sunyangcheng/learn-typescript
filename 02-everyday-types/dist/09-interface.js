@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function printCoord(pt) { }
 printCoord({
     x: 1,
@@ -16,7 +17,3 @@ const phone = {
     name: "Apple",
     price: 1000
 };
-// // 标识符“Computer”重复。
-// type Computer = {
-//   price: number
-// }

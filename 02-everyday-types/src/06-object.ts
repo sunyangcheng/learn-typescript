@@ -32,3 +32,5 @@ printName({
 //   lastName: "Doe",
 //   age: 30 // error
 // })
+
+export {};

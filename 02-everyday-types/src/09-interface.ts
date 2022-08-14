@@ -61,3 +61,5 @@ type Computer = {
 // type Computer = {
 //   price: number
 // }
+
+export {};
