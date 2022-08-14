@@ -13,4 +13,5 @@ const arr = ["Anna", "Bob", "Charlie"];
 arr.forEach((name) => {
   greet(name.toUpperCase());
 });
+
 export {};
