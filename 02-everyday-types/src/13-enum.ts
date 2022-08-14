@@ -6,3 +6,5 @@ enum Direction {
 }
 
 console.log(Direction.Up);
+
+export {};

@@ -8,3 +8,5 @@ const secondName = Symbol("name");
 // if (firstName === secondName) {
 //   console.log("same");
 // }
+
+export {};

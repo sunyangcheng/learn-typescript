@@ -7,3 +7,5 @@ obj();
 obj.y = 2;
 obj = "ts";
 const n: number = obj;
+
+export {};

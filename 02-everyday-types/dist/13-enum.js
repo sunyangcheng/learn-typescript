@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var Direction;
 (function (Direction) {
     Direction[Direction["Up"] = 1] = "Up";
