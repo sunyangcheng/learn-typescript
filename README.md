@@ -2,7 +2,7 @@
 
 ## 01-ts-basic
 
-1. [hello.ts](https://github.com/sunyangcheng/learn-typescript/tree/master/01-ts-basic/src/hello.ts)
+1. [hello.ts](https://github.com/sunyangcheng/learn-typescript/tree/master/01-ts-basic/hello.ts)
 
 ## 02-everyday-types  
 
