@@ -4,7 +4,7 @@
 
 ## 02-everyday-types  
 
-1. [01-the-primitives.ts（基元类型）](https://github.com/sunyangcheng/learn-typescript/tree/master/02-everyday-types/src/01-hello-world.ts)
+1. [01-the-primitives.ts（基元类型）](https://github.com/sunyangcheng/learn-typescript/tree/master/02-everyday-types/src/01-the-primitives.ts)
 
 2. [02-array.ts（数组类型）](https://github.com/sunyangcheng/learn-typescript/tree/master/02-everyday-types/src/02-array.ts)
 
