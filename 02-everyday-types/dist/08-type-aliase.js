@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function printCoord(pt) {
     console.log(`x: ${pt.x}, y: ${pt.y}`);
 }

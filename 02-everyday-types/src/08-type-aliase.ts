@@ -1,4 +1,7 @@
-type Point = { x: number; y: number };
+type Point = { 
+  x: number; 
+  y: number
+};
 
 function printCoord(pt: Point) {
   console.log(`x: ${pt.x}, y: ${pt.y}`);
@@ -17,3 +20,5 @@ function printID(id: ID) {
 
 printID(100);
 printID("100");
+
+export {};
