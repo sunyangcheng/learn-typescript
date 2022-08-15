@@ -45,3 +45,5 @@
 4. [04-the-in-operator-narrowing.ts（in操作符缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/04-the-in-operator-narrowing.ts)
 
 5. [05-instanceof-narrowing.ts（instanceof操作符缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/05-instanceof-narrowing.ts)
+
+6. [06-assignment-narrowing.ts（分配缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/06-assignment-narrowing.ts)
