@@ -47,3 +47,6 @@
 5. [05-instanceof-narrowing.ts（instanceof操作符缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/05-instanceof-narrowing.ts)
 
 6. [06-assignment-narrowing.ts（分配缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/06-assignment-narrowing.ts)
+
+7. [07-control-flow-analysis.ts（控制流分析）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/07-control-flow-analysis.ts)
+
