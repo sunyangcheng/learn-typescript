@@ -10,3 +10,5 @@ function move(animal: Fish | Bird | Human) {
   // Bird | Human
   return (animal as Bird).fly();
 }
+
+export {};

@@ -50,3 +50,5 @@
 
 7. [07-control-flow-analysis.ts（控制流分析）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/07-control-flow-analysis.ts)
 
+8. [08-using-type-predicates.ts（类型谓词）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/08-using-type-predicates.ts)
+
