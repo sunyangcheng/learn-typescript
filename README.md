@@ -39,3 +39,5 @@
 1. [01-typeof-type-guards.ts（typeof类型守卫）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/01-typeof-type-guards.ts)
 
 2. [02-truthiness-narrowing.ts（真值缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/02-truthiness-narrowing.ts)
+
+3. [03-equality-narrowing.ts（等值缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/03-equality-narrowing.ts)
