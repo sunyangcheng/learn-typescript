@@ -33,3 +33,7 @@
 13. [13-enum.ts（枚举类型）](https://github.com/sunyangcheng/learn-typescript/tree/master/02-everyday-types/src/13-enum.ts)
 
 14. [14-bigint-and-symbol.ts](https://github.com/sunyangcheng/learn-typescript/tree/master/02-everyday-types/src/14-bigint-and-symbol.ts)
+
+## 03-narrowing
+
+1. [01-typeof-type-guards.ts（typeof类型守卫）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/01-typeof-type-guards.ts)
