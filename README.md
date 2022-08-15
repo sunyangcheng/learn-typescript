@@ -52,3 +52,4 @@
 
 8. [08-using-type-predicates.ts（类型谓词）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/08-using-type-predicates.ts)
 
+9. [09-discriminated-unions.ts（受歧视的unions）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/09-discriminated-unions.ts)
