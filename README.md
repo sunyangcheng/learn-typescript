@@ -43,3 +43,5 @@
 3. [03-equality-narrowing.ts（等值缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/03-equality-narrowing.ts)
 
 4. [04-the-in-operator-narrowing.ts（in操作符缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/04-the-in-operator-narrowing.ts)
+
+5. [05-instanceof-narrowing.ts（instanceof操作符缩小）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/05-instanceof-narrowing.ts)
