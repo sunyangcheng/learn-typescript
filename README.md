@@ -55,3 +55,7 @@
 9. [09-discriminated-unions.ts（受歧视的unions）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/09-discriminated-unions.ts)
 
 10. [10-never-type.ts（never类型与穷尽性检查）](https://github.com/sunyangcheng/learn-typescript/tree/master/03-narrowing/src/10-never-type.ts)
+
+## 04-more-of-function
+
+1. [01-function-type-expression.ts（函数表达式）]((https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/src/01-function-type-expression.ts))
