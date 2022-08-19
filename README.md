@@ -58,4 +58,6 @@
 
 ## 04-more-of-function
 
-1. [01-function-type-expression.ts（函数表达式）]((https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/src/01-function-type-expression.ts))
+1. [01-function-type-expression.ts（函数表达式）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/src/01-function-type-expression.ts)
+
+2. [02-call-signatures.ts（函数调用）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/src/02-call-signatures.ts)
