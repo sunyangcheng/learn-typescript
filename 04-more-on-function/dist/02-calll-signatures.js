@@ -1,6 +1,7 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function doSomething(fn) {
-    console.log(fn.description + " return " + fn(1));
+    console.log(fn.description + "return" + fn(1));
 }
 function myFn(n) {
     console.log(n);

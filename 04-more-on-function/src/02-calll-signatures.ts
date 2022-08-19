@@ -1,9 +1,9 @@
-type describableFunction = {
+type DescribableFunction = {
   description: string;
   (n: number): boolean;
 }
 
-function doSomething(fn: describableFunction) {
+function doSomething(fn: DescribableFunction) {
   console.log(fn.description + "return" + fn(1));
 }
 
@@ -14,3 +14,4 @@ function myFn(n: number): boolean {
 myFn.description = "myFn";
 doSomething(myFn); // myFn return true
 
+export {};
