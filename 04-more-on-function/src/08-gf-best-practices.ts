@@ -28,3 +28,5 @@ function greet2(str: string) {
   console.log(`hello ${str}`);
 }
 
+export {};
+
