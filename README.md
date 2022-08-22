@@ -42,7 +42,7 @@
 4. [04-generic-functions.ts（泛型函数-类型推断）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-generic-functions.ts)
 5. [05-gf-constraints.ts（泛型函数-限制条件）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/05-gf-constraints.ts)
 6. [06-gf-working-with-constrained-values.ts（泛型函数-使用受限值）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/06-gf-working-with-constrained-values.ts)
-7. [07-gf-specifying-type-arguments.ts（泛型函数-指定类型参数）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/07-gf-specifying-type-arguments.ts)
+7. [c（泛型函数-指定类型参数）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/07-gf-specifying-type-arguments.ts)
 8. [08-gf-best-practices.ts（泛型函数-编写优秀通用的准则）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/08-gf-best-practices.ts)
 9. [09-optional-parameters.ts（函数的可选参数）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/09-optional-parameters.ts)
 10. [10-optional-parameters-in-callbacks.ts（回调中的可选参数j）](https://github.com/sunyangcheng/learn-typescript/tree/master/04-more-of-function/10-optional-parameters-in-callbacks.ts)
