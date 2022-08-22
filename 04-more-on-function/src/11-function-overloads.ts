@@ -10,6 +10,6 @@ function makeDate(mOrTimestamp: number, d?: number, y?: number): Date {
 
 const d1 = makeDate(1564897200000); // 2020-08-19
 const d2 = makeDate(2020, 8, 19); // 2020-08-19
-const d3 = makeDate(2020, 7); // 没有需要2参数的重载，但存在需要1或3参数的重载
+const d3 = makeDate(2020, 7); // 没有需要2参数的重载，但存在需要1或3参数的重载。
 
 export {};
